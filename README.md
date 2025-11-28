@@ -27,9 +27,16 @@ Master-Master
 
 ### Задание 2
 
-![alt text](https://github.com/SLzDevOps/Netology-BD-5/blob/main/Screenshot_514.png).
-![alt text](https://github.com/SLzDevOps/Netology-BD-5/blob/main/Screenshot_515.png).
-![alt text](https://github.com/SLzDevOps/Netology-BD-5/blob/main/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_582.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_583.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_584.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_585.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_586.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_587.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_588.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_589.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_590.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-6/blob/main/Screenshot_591.png).
 
 
 ### Задание 3
